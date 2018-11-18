@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar src/main/java/com/bolingcavalry/mavendockerplugindemo/MavendockerplugindemoApplication.java
+java -jar target/mavendockerplugindemo-0.0.1-SNAPSHOT.jar
