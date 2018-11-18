@@ -1,8 +1,8 @@
-FROM centos
+FROM centos:7
 
 MAINTAINER Mygithub (mygithublab@126.com)
 
-RUN yum update && yum install -y java openssh-server
+RUN yum install -y java openssh-server
 
 WORKDIR /
 
