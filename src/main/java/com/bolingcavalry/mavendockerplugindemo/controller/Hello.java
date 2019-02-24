@@ -11,6 +11,6 @@ public class Hello {
     @RequestMapping("/")
     public String sayHello(){
     	//修改返回的字符串的内容
-        return " 缪凯生！！！！哈哈哈哈！！！！！！！在干嘛！！！ 测试！欢迎光临!免费提供Linux 系统使用，有意者联系mygithublab@126.com " + new Date();
+        return " 古语有云：不忘初心，方得始终，人生若只如初见!!!   ******欢迎光临!  联系：mygithublab@126.com****** " + new Date();
     }
 }
